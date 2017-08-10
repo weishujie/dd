@@ -1,12 +1,12 @@
 dcscdscsdcsdcsdcsd
 
 
-<<<<<<< HEAD
+
 master
 
 dev1111111111
-=======
+
 dev1111111111
 
 feature
->>>>>>> featurel
+
